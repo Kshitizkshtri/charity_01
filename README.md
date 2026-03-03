@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NepalDaan – Blockchain-Based Charity Donation System
 
 > Transparent, low-cost, milestone-based donations for Nepal — powered by **Solana** (Rust + Anchor), **Node.js**, and **React.js**.
@@ -296,3 +297,6 @@ This platform addresses the specific trust and transparency challenges in Nepal'
 - SOL as the donation currency (low fees vs. traditional transfers)
 - Public audit trail on Solana Explorer
 - IPFS-stored milestone evidence that anyone can verify
+=======
+# minor_789
+>>>>>>> e460551bda124c431a61a835a08e06387b40ef00
